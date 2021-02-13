@@ -1,6 +1,6 @@
 .main-header{
 	position:relative;
-	background-color:#1E90FF;
+	background-color:#FF7F50;
 	height:8vh;
 	margin:auto;
 	background-size: cover;
@@ -10,7 +10,7 @@
 }
 .main-body{
 	position:static;
-	background-color:#696969;
+	background-color:Linen;
 	height:93.5%;
 	width:100%vw;
 }

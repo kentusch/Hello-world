@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.conf.urls import url, include
-from back import views
+from . import views
 
 urlpatterns = [
-    url(r'^back/', views.back, name='back')
+    url(r'^mainpage/$', views.index, name='index')
 ]
